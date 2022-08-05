@@ -2,8 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=alexivanov89)
 
-#### I'm studying to be a frontend developer. I’m currently learning React. 🚀🤘(●'◡'●)
-<br />
 
 #### About me:
 - Watch footbal.
