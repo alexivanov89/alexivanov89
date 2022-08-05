@@ -6,10 +6,9 @@
 <br />
 
 #### About me:
-- Watch footbal. Fan Premier League.
+- Watch footbal.
 - I train with a barbell.
-- I like to watch movies, TV series and listen to music, podcasts in free time.
-- I study psychology for self-development.
+- I like to watch movies and listen to music, podcasts in free time.
 <br />
 
 #### Languages and Tools:
